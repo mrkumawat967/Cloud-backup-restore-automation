@@ -57,16 +57,14 @@ cloud-backup-restore/
 ├── requirements.txt
 └── README.md
 
----
+```
 
 ## 📸 Project Screenshots
 
 ### 1. Azure Storage Account
-![Azure Storage Account](screenshots/storage-account.png)
-
+![Azure Storage Account](storage-account.png)
 ### 2. Blob Container
-![Blob Container](screenshots/blob-container.png)
-
+``
 ### 3. Backup Script Output
 ![Backup Output](screenshots/backup-output.png)
 
