@@ -64,7 +64,7 @@ cloud-backup-restore/
 ### 1. Azure Storage Account
 ![Azure Storage Account](storage-account.png)
 ### 2. Blob Container
-``
+![alt text](screenshots/blob-container.png)
 ### 3. Backup Script Output
 ![Backup Output](screenshots/backup-output.png)
 
